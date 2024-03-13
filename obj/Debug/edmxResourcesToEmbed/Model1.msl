@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="HotelSQLModelStoreContainer" CdmEntityContainer="dbHotelSQLEntities">
+    <EntitySetMapping Name="Clientes">
+      <EntityTypeMapping TypeName="HotelSQLModel.Clientes">
+        <MappingFragment StoreEntitySet="Clientes">
+          <ScalarProperty Name="NIF" ColumnName="NIF" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="apellidos" ColumnName="apellidos" />
+          <ScalarProperty Name="telefono" ColumnName="telefono" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="VIP" ColumnName="VIP" />
+          <ScalarProperty Name="direccion" ColumnName="direccion" />
+          <ScalarProperty Name="ciudad" ColumnName="ciudad" />
+          <ScalarProperty Name="cp" ColumnName="cp" />
+          <ScalarProperty Name="pais" ColumnName="pais" />
+          <ScalarProperty Name="fechaN" ColumnName="fechaN" />
+          <ScalarProperty Name="detalle" ColumnName="detalle" />
+          <ScalarProperty Name="nombreCuenta" ColumnName="nombreCuenta" />
+          <ScalarProperty Name="numeroCuenta" ColumnName="numeroCuenta" />
+          <ScalarProperty Name="fechaAlta" ColumnName="fechaAlta" />
+          <ScalarProperty Name="incidencias" ColumnName="incidencias" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Factura">
+      <EntityTypeMapping TypeName="HotelSQLModel.Factura">
+        <MappingFragment StoreEntitySet="Factura">
+          <ScalarProperty Name="numeroFactura" ColumnName="numeroFactura" />
+          <ScalarProperty Name="fechaFactura" ColumnName="fechaFactura" />
+          <ScalarProperty Name="precioTotal" ColumnName="precioTotal" />
+          <ScalarProperty Name="servicioID" ColumnName="servicioID" />
+          <ScalarProperty Name="reservaID" ColumnName="reservaID" />
+          <ScalarProperty Name="idCliente" ColumnName="idCliente" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Habitacion">
+      <EntityTypeMapping TypeName="HotelSQLModel.Habitacion">
+        <MappingFragment StoreEntitySet="Habitacion">
+          <ScalarProperty Name="numeroHabitacion" ColumnName="numeroHabitacion" />
+          <ScalarProperty Name="tipoHabitacion" ColumnName="tipoHabitacion" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="tipoID" ColumnName="tipoID" />
+          <ScalarProperty Name="estado" ColumnName="estado" />
+          <ScalarProperty Name="fueraServicio" ColumnName="fueraServicio" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="historicoReservas">
+      <EntityTypeMapping TypeName="HotelSQLModel.historicoReservas">
+        <MappingFragment StoreEntitySet="historicoReservas">
+          <ScalarProperty Name="reservaID" ColumnName="reservaID" />
+          <ScalarProperty Name="habitacion" ColumnName="habitacion" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="entrada" ColumnName="entrada" />
+          <ScalarProperty Name="salida" ColumnName="salida" />
+          <ScalarProperty Name="estado" ColumnName="estado" />
+          <ScalarProperty Name="idIncidencia" ColumnName="idIncidencia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Incidencias">
+      <EntityTypeMapping TypeName="HotelSQLModel.Incidencias">
+        <MappingFragment StoreEntitySet="Incidencias">
+          <ScalarProperty Name="idIncidencia" ColumnName="idIncidencia" />
+          <ScalarProperty Name="tipo" ColumnName="tipo" />
+          <ScalarProperty Name="detalle" ColumnName="detalle" />
+          <ScalarProperty Name="resuelta" ColumnName="resuelta" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RegimenPension">
+      <EntityTypeMapping TypeName="HotelSQLModel.RegimenPension">
+        <MappingFragment StoreEntitySet="RegimenPension">
+          <ScalarProperty Name="pensionID" ColumnName="pensionID" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="precio" ColumnName="precio" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Reservas">
+      <EntityTypeMapping TypeName="HotelSQLModel.Reservas">
+        <MappingFragment StoreEntitySet="Reservas">
+          <ScalarProperty Name="reservaID" ColumnName="reservaID" />
+          <ScalarProperty Name="firmado" ColumnName="firmado" />
+          <ScalarProperty Name="fechaEntrada" ColumnName="fechaEntrada" />
+          <ScalarProperty Name="fechaSalida" ColumnName="fechaSalida" />
+          <ScalarProperty Name="NIF" ColumnName="NIF" />
+          <ScalarProperty Name="numeroHabitacion" ColumnName="numeroHabitacion" />
+          <ScalarProperty Name="temporadaID" ColumnName="temporadaID" />
+          <ScalarProperty Name="pensionID" ColumnName="pensionID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Servicio">
+      <EntityTypeMapping TypeName="HotelSQLModel.Servicio">
+        <MappingFragment StoreEntitySet="Servicio">
+          <ScalarProperty Name="idServicio" ColumnName="idServicio" />
+          <ScalarProperty Name="precioServicio" ColumnName="precioServicio" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="tipoServicioID" ColumnName="tipoServicioID" />
+          <ScalarProperty Name="precioAlta" ColumnName="precioAlta" />
+          <ScalarProperty Name="precioBaja" ColumnName="precioBaja" />
+          <ScalarProperty Name="precioMedia" ColumnName="precioMedia" />
+          <ScalarProperty Name="permisoAlta" ColumnName="permisoAlta" />
+          <ScalarProperty Name="permisoMedia" ColumnName="permisoMedia" />
+          <ScalarProperty Name="permisoBaja" ColumnName="permisoBaja" />
+          <ScalarProperty Name="descVIP" ColumnName="descVIP" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Temporada">
+      <EntityTypeMapping TypeName="HotelSQLModel.Temporada">
+        <MappingFragment StoreEntitySet="Temporada">
+          <ScalarProperty Name="temporadaID" ColumnName="temporadaID" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TipoHabitacion">
+      <EntityTypeMapping TypeName="HotelSQLModel.TipoHabitacion">
+        <MappingFragment StoreEntitySet="TipoHabitacion">
+          <ScalarProperty Name="tipoID" ColumnName="tipoID" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Usuario">
+      <EntityTypeMapping TypeName="HotelSQLModel.Usuario">
+        <MappingFragment StoreEntitySet="Usuario">
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="usuarioID" ColumnName="usuarioID" />
+          <ScalarProperty Name="password" ColumnName="password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HistoricoServicios">
+      <EntityTypeMapping TypeName="HotelSQLModel.HistoricoServicios">
+        <MappingFragment StoreEntitySet="HistoricoServicios">
+          <ScalarProperty Name="idServicio" ColumnName="idServicio" />
+          <ScalarProperty Name="reservaID" ColumnName="reservaID" />
+          <ScalarProperty Name="historicoID" ColumnName="historicoID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

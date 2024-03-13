@@ -1,0 +1,188 @@
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\Producto_2\obj\Debug\Producto_2.csproj.AssemblyReference.cache
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\Producto_2\obj\Debug\Producto_2.Properties.Resources.resources
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\Producto_2\obj\Debug\Producto_2.Vista.Form2.resources
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\Producto_2\obj\Debug\Producto_2.csproj.GenerateResource.cache
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\Producto_2\obj\Debug\Producto_2.csproj.CoreCompileInputs.cache
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\Producto_2\bin\Debug\Producto_2.exe.config
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\Producto_2\bin\Debug\Producto_2.exe
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\Producto_2\bin\Debug\Producto_2.pdb
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\Producto_2\bin\Debug\EntityFramework.dll
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\Producto_2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\Producto_2\bin\Debug\EntityFramework.xml
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\Producto_2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\Producto_2\obj\Debug\Producto_2.csproj.CopyComplete
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\Producto_2\obj\Debug\Producto_2.exe
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\Producto_2\obj\Debug\Producto_2.pdb
+C:\Users\PC\OneDrive\DAM\FP 4to semestre\FP.059 - (P) Técnicas de persistencia datos con .NET y programas ERP\Producto 2\Producto2\obj\Debug\Producto_2.exe
+C:\Users\PC\OneDrive\DAM\FP 4to semestre\FP.059 - (P) Técnicas de persistencia datos con .NET y programas ERP\Producto 2\Producto2\obj\Debug\Producto_2.pdb
+C:\Users\PC\OneDrive\DAM\FP 4to semestre\FP.059 - (P) Técnicas de persistencia datos con .NET y programas ERP\Producto 2\Producto2\obj\Debug\Producto_2.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\DAM\FP 4to semestre\FP.059 - (P) Técnicas de persistencia datos con .NET y programas ERP\Producto 2\Producto2\obj\Debug\Producto_2.Properties.Resources.resources
+C:\Users\PC\OneDrive\DAM\FP 4to semestre\FP.059 - (P) Técnicas de persistencia datos con .NET y programas ERP\Producto 2\Producto2\obj\Debug\Producto_2.Vista.Form2.resources
+C:\Users\PC\OneDrive\DAM\FP 4to semestre\FP.059 - (P) Técnicas de persistencia datos con .NET y programas ERP\Producto 2\Producto2\obj\Debug\Producto_2.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\DAM\FP 4to semestre\FP.059 - (P) Técnicas de persistencia datos con .NET y programas ERP\Producto 2\Producto2\obj\Debug\Producto_2.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\DAM\FP 4to semestre\FP.059 - (P) Técnicas de persistencia datos con .NET y programas ERP\Producto 2\Producto2\bin\Debug\Producto_2.exe.config
+C:\Users\PC\OneDrive\DAM\FP 4to semestre\FP.059 - (P) Técnicas de persistencia datos con .NET y programas ERP\Producto 2\Producto2\bin\Debug\Producto_2.exe
+C:\Users\PC\OneDrive\DAM\FP 4to semestre\FP.059 - (P) Técnicas de persistencia datos con .NET y programas ERP\Producto 2\Producto2\bin\Debug\Producto_2.pdb
+C:\Users\PC\OneDrive\DAM\FP 4to semestre\FP.059 - (P) Técnicas de persistencia datos con .NET y programas ERP\Producto 2\Producto2\bin\Debug\EntityFramework.dll
+C:\Users\PC\OneDrive\DAM\FP 4to semestre\FP.059 - (P) Técnicas de persistencia datos con .NET y programas ERP\Producto 2\Producto2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\OneDrive\DAM\FP 4to semestre\FP.059 - (P) Técnicas de persistencia datos con .NET y programas ERP\Producto 2\Producto2\bin\Debug\EntityFramework.xml
+C:\Users\PC\OneDrive\DAM\FP 4to semestre\FP.059 - (P) Técnicas de persistencia datos con .NET y programas ERP\Producto 2\Producto2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\OneDrive\DAM\FP 4to semestre\FP.059 - (P) Técnicas de persistencia datos con .NET y programas ERP\Producto 2\Producto2\obj\Debug\Producto_2.csproj.CopyComplete
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\DataNerds\bin\Debug\Producto_2.exe.config
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\DataNerds\bin\Debug\Producto_2.exe
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\DataNerds\bin\Debug\Producto_2.pdb
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\DataNerds\bin\Debug\EntityFramework.dll
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\DataNerds\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\DataNerds\bin\Debug\EntityFramework.xml
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\DataNerds\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\DataNerds\obj\Debug\Producto_2.csproj.AssemblyReference.cache
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\DataNerds\obj\Debug\Producto_2.Properties.Resources.resources
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\DataNerds\obj\Debug\Producto_2.csproj.GenerateResource.cache
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\DataNerds\obj\Debug\Producto_2.csproj.CoreCompileInputs.cache
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\DataNerds\obj\Debug\Producto_2.csproj.CopyComplete
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\DataNerds\obj\Debug\Producto_2.exe
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\DataNerds\obj\Debug\Producto_2.pdb
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\DataNerds\obj\Debug\Producto_2.Vista.frmCliente.resources
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\DataNerds\obj\Debug\Producto_2.Vista.frmAutenticacion.resources
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\DataNerds\obj\Debug\Producto_2.Vista.mdiHotelSol.resources
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\DataNerds\obj\Debug\Producto_2.Vista.Form7Reservas.resources
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\DataNerds\obj\Debug\Producto_2.Vista.FormMenuInicioAdmin.resources
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\DataNerds\obj\Debug\Producto_2.Vista.FormServicios11.resources
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\DataNerds\obj\Debug\Producto_2.Vista.FrmDatosHabitaciones.resources
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\DataNerds\obj\Debug\Producto_2.Vista.FrmHabitaciones.resources
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\DataNerds\obj\Debug\Producto_2.Vista.FrmMenuInicio.resources
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\DataNerds\obj\Debug\Producto_2.Vista.InterfazFacturas.resources
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\DataNerds\obj\Debug\Producto_2.Vista.InterfazReserva.resources
+C:\Users\jf3pa\OneDrive\Desktop\Pruebas C#\DataNerds\obj\Debug\Producto_2.Vista.InterfazUsuario.resources
+C:\Users\jf3pa\OneDrive\Desktop\Persistencia\DataNerds\obj\Debug\Producto_2.csproj.AssemblyReference.cache
+C:\Users\jf3pa\OneDrive\Desktop\Persistencia\DataNerds\obj\Debug\Producto_2.Properties.Resources.resources
+C:\Users\jf3pa\OneDrive\Desktop\Persistencia\DataNerds\obj\Debug\Producto_2.Vista.Form7Reservas.resources
+C:\Users\jf3pa\OneDrive\Desktop\Persistencia\DataNerds\obj\Debug\Producto_2.Vista.FormServicios11.resources
+C:\Users\jf3pa\OneDrive\Desktop\Persistencia\DataNerds\obj\Debug\Producto_2.Vista.frmAutenticacion.resources
+C:\Users\jf3pa\OneDrive\Desktop\Persistencia\DataNerds\obj\Debug\Producto_2.Vista.frmCliente.resources
+C:\Users\jf3pa\OneDrive\Desktop\Persistencia\DataNerds\obj\Debug\Producto_2.Vista.FrmHabitaciones.resources
+C:\Users\jf3pa\OneDrive\Desktop\Persistencia\DataNerds\obj\Debug\Producto_2.Vista.InterfazFacturas.resources
+C:\Users\jf3pa\OneDrive\Desktop\Persistencia\DataNerds\obj\Debug\Producto_2.Vista.InterfazReserva.resources
+C:\Users\jf3pa\OneDrive\Desktop\Persistencia\DataNerds\obj\Debug\Producto_2.Vista.mdiHotelSol.resources
+C:\Users\jf3pa\OneDrive\Desktop\Persistencia\DataNerds\obj\Debug\Producto_2.csproj.GenerateResource.cache
+C:\Users\jf3pa\OneDrive\Desktop\Persistencia\DataNerds\obj\Debug\Producto_2.csproj.CoreCompileInputs.cache
+C:\Users\jf3pa\OneDrive\Desktop\Persistencia\DataNerds\bin\Debug\EntityFramework.dll
+C:\Users\jf3pa\OneDrive\Desktop\Persistencia\DataNerds\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jf3pa\OneDrive\Desktop\Persistencia\DataNerds\bin\Debug\EntityFramework.xml
+C:\Users\jf3pa\OneDrive\Desktop\Persistencia\DataNerds\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jf3pa\OneDrive\Desktop\Persistencia\DataNerds\obj\Debug\Producto_2.csproj.CopyComplete
+C:\Users\jf3pa\OneDrive\Desktop\Persistencia\DataNerds\obj\Debug\Producto_2.Vista.frmAddServicio.resources
+C:\Users\jf3pa\OneDrive\Desktop\Persistencia\DataNerds\bin\Debug\Hotel_Sol.exe.config
+C:\Users\jf3pa\OneDrive\Desktop\Persistencia\DataNerds\bin\Debug\Hotel_Sol.exe
+C:\Users\jf3pa\OneDrive\Desktop\Persistencia\DataNerds\bin\Debug\Hotel_Sol.pdb
+C:\Users\jf3pa\OneDrive\Desktop\Persistencia\DataNerds\obj\Debug\Hotel_Sol.exe
+C:\Users\jf3pa\OneDrive\Desktop\Persistencia\DataNerds\obj\Debug\Hotel_Sol.pdb
+C:\Users\jf3pa\OneDrive\Desktop\Persistencia\DataNerds\bin\Debug\nunit.framework.dll
+C:\Users\jf3pa\OneDrive\Desktop\Persistencia\DataNerds\bin\Debug\nunit.framework.xml
+C:\Users\jf3pa\OneDrive\Desktop\Persistencia\DataNerds\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\jf3pa\OneDrive\Desktop\Persistencia\DataNerds\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\jf3pa\OneDrive\Desktop\Persistencia\DataNerds\bin\Debug\nunit.engine.dll
+C:\Users\jf3pa\OneDrive\Desktop\Persistencia\DataNerds\bin\Debug\nunit.engine.api.dll
+C:\Users\jf3pa\OneDrive\Desktop\Persistencia\DataNerds\bin\Debug\nunit.engine.core.dll
+C:\Users\jf3pa\OneDrive\Desktop\Persistencia\DataNerds\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\jf3pa\OneDrive\Desktop\Persistencia\DataNerds\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jf3pa\OneDrive\Desktop\Persistencia\DataNerds\obj\Debug\Producto_2.Vista.frmExportarAOdoo.resources
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS DE PERSISTENCIA DE DATOS\producto2\Producto_2\Producto2\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS DE PERSISTENCIA DE DATOS\producto2\Producto_2\Producto2\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS DE PERSISTENCIA DE DATOS\producto2\Producto_2\Producto2\bin\Debug\nunit.engine.dll
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS DE PERSISTENCIA DE DATOS\producto2\Producto_2\Producto2\bin\Debug\nunit.engine.api.dll
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS DE PERSISTENCIA DE DATOS\producto2\Producto_2\Producto2\bin\Debug\nunit.engine.core.dll
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS DE PERSISTENCIA DE DATOS\producto2\Producto_2\Producto2\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS DE PERSISTENCIA DE DATOS\producto2\Producto_2\Producto2\bin\Debug\Hotel_Sol.exe.config
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS DE PERSISTENCIA DE DATOS\producto2\Producto_2\Producto2\bin\Debug\Hotel_Sol.exe
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS DE PERSISTENCIA DE DATOS\producto2\Producto_2\Producto2\bin\Debug\Hotel_Sol.pdb
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS DE PERSISTENCIA DE DATOS\producto2\Producto_2\Producto2\bin\Debug\EntityFramework.dll
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS DE PERSISTENCIA DE DATOS\producto2\Producto_2\Producto2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS DE PERSISTENCIA DE DATOS\producto2\Producto_2\Producto2\bin\Debug\nunit.framework.dll
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS DE PERSISTENCIA DE DATOS\producto2\Producto_2\Producto2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS DE PERSISTENCIA DE DATOS\producto2\Producto_2\Producto2\bin\Debug\EntityFramework.xml
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS DE PERSISTENCIA DE DATOS\producto2\Producto_2\Producto2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS DE PERSISTENCIA DE DATOS\producto2\Producto_2\Producto2\bin\Debug\nunit.framework.xml
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS DE PERSISTENCIA DE DATOS\producto2\Producto_2\Producto2\obj\Debug\Producto_2.csproj.AssemblyReference.cache
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS DE PERSISTENCIA DE DATOS\producto2\Producto_2\Producto2\obj\Debug\Producto_2.Properties.Resources.resources
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS DE PERSISTENCIA DE DATOS\producto2\Producto_2\Producto2\obj\Debug\Producto_2.Vista.frmExportarAOdoo.resources
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS DE PERSISTENCIA DE DATOS\producto2\Producto_2\Producto2\obj\Debug\Producto_2.Vista.Form7Reservas.resources
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS DE PERSISTENCIA DE DATOS\producto2\Producto_2\Producto2\obj\Debug\Producto_2.Vista.FormServicios11.resources
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS DE PERSISTENCIA DE DATOS\producto2\Producto_2\Producto2\obj\Debug\Producto_2.Vista.frmAddServicio.resources
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS DE PERSISTENCIA DE DATOS\producto2\Producto_2\Producto2\obj\Debug\Producto_2.Vista.frmAutenticacion.resources
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS DE PERSISTENCIA DE DATOS\producto2\Producto_2\Producto2\obj\Debug\Producto_2.Vista.frmCliente.resources
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS DE PERSISTENCIA DE DATOS\producto2\Producto_2\Producto2\obj\Debug\Producto_2.Vista.FrmHabitaciones.resources
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS DE PERSISTENCIA DE DATOS\producto2\Producto_2\Producto2\obj\Debug\Producto_2.Vista.InterfazFacturas.resources
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS DE PERSISTENCIA DE DATOS\producto2\Producto_2\Producto2\obj\Debug\Producto_2.Vista.InterfazReserva.resources
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS DE PERSISTENCIA DE DATOS\producto2\Producto_2\Producto2\obj\Debug\Producto_2.Vista.mdiHotelSol.resources
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS DE PERSISTENCIA DE DATOS\producto2\Producto_2\Producto2\obj\Debug\Producto_2.csproj.GenerateResource.cache
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS DE PERSISTENCIA DE DATOS\producto2\Producto_2\Producto2\obj\Debug\Producto_2.csproj.CoreCompileInputs.cache
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS DE PERSISTENCIA DE DATOS\producto2\Producto_2\Producto2\obj\Debug\Producto_2.csproj.CopyComplete
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS DE PERSISTENCIA DE DATOS\producto2\Producto_2\Producto2\obj\Debug\Hotel_Sol.exe
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS DE PERSISTENCIA DE DATOS\producto2\Producto_2\Producto2\obj\Debug\Hotel_Sol.pdb
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS_DE_PERSISTENCIA_DE_DATOS\producto2\Producto_2\Producto2\obj\Debug\Producto_2.csproj.AssemblyReference.cache
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS_DE_PERSISTENCIA_DE_DATOS\producto2\Producto_2\Producto2\obj\Debug\Producto_2.Properties.Resources.resources
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS_DE_PERSISTENCIA_DE_DATOS\producto2\Producto_2\Producto2\obj\Debug\Producto_2.Vista.frmExportarAOdoo.resources
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS_DE_PERSISTENCIA_DE_DATOS\producto2\Producto_2\Producto2\obj\Debug\Producto_2.Vista.Form7Reservas.resources
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS_DE_PERSISTENCIA_DE_DATOS\producto2\Producto_2\Producto2\obj\Debug\Producto_2.Vista.FormServicios11.resources
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS_DE_PERSISTENCIA_DE_DATOS\producto2\Producto_2\Producto2\obj\Debug\Producto_2.Vista.frmAddServicio.resources
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS_DE_PERSISTENCIA_DE_DATOS\producto2\Producto_2\Producto2\obj\Debug\Producto_2.Vista.frmAutenticacion.resources
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS_DE_PERSISTENCIA_DE_DATOS\producto2\Producto_2\Producto2\obj\Debug\Producto_2.Vista.frmCliente.resources
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS_DE_PERSISTENCIA_DE_DATOS\producto2\Producto_2\Producto2\obj\Debug\Producto_2.Vista.FrmHabitaciones.resources
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS_DE_PERSISTENCIA_DE_DATOS\producto2\Producto_2\Producto2\obj\Debug\Producto_2.Vista.InterfazFacturas.resources
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS_DE_PERSISTENCIA_DE_DATOS\producto2\Producto_2\Producto2\obj\Debug\Producto_2.Vista.InterfazReserva.resources
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS_DE_PERSISTENCIA_DE_DATOS\producto2\Producto_2\Producto2\obj\Debug\Producto_2.Vista.mdiHotelSol.resources
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS_DE_PERSISTENCIA_DE_DATOS\producto2\Producto_2\Producto2\obj\Debug\Producto_2.csproj.GenerateResource.cache
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS_DE_PERSISTENCIA_DE_DATOS\producto2\Producto_2\Producto2\obj\Debug\Producto_2.csproj.CoreCompileInputs.cache
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS_DE_PERSISTENCIA_DE_DATOS\producto2\Producto_2\Producto2\obj\Debug\Hotel_Sol.exe
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS_DE_PERSISTENCIA_DE_DATOS\producto2\Producto_2\Producto2\obj\Debug\Hotel_Sol.pdb
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS_DE_PERSISTENCIA_DE_DATOS\producto2\Producto_2\Producto2\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS_DE_PERSISTENCIA_DE_DATOS\producto2\Producto_2\Producto2\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS_DE_PERSISTENCIA_DE_DATOS\producto2\Producto_2\Producto2\bin\Debug\nunit.engine.dll
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS_DE_PERSISTENCIA_DE_DATOS\producto2\Producto_2\Producto2\bin\Debug\nunit.engine.api.dll
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS_DE_PERSISTENCIA_DE_DATOS\producto2\Producto_2\Producto2\bin\Debug\nunit.engine.core.dll
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS_DE_PERSISTENCIA_DE_DATOS\producto2\Producto_2\Producto2\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS_DE_PERSISTENCIA_DE_DATOS\producto2\Producto_2\Producto2\bin\Debug\Hotel_Sol.exe.config
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS_DE_PERSISTENCIA_DE_DATOS\producto2\Producto_2\Producto2\bin\Debug\Hotel_Sol.exe
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS_DE_PERSISTENCIA_DE_DATOS\producto2\Producto_2\Producto2\bin\Debug\Hotel_Sol.pdb
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS_DE_PERSISTENCIA_DE_DATOS\producto2\Producto_2\Producto2\bin\Debug\EntityFramework.dll
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS_DE_PERSISTENCIA_DE_DATOS\producto2\Producto_2\Producto2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS_DE_PERSISTENCIA_DE_DATOS\producto2\Producto_2\Producto2\bin\Debug\nunit.framework.dll
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS_DE_PERSISTENCIA_DE_DATOS\producto2\Producto_2\Producto2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS_DE_PERSISTENCIA_DE_DATOS\producto2\Producto_2\Producto2\bin\Debug\EntityFramework.xml
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS_DE_PERSISTENCIA_DE_DATOS\producto2\Producto_2\Producto2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS_DE_PERSISTENCIA_DE_DATOS\producto2\Producto_2\Producto2\bin\Debug\nunit.framework.xml
+C:\Users\jjoya\Desktop\FPC2\TÉCNICAS_DE_PERSISTENCIA_DE_DATOS\producto2\Producto_2\Producto2\obj\Debug\Producto_2.csproj.CopyComplete
+C:\Users\PC\OneDrive\Escritorio\Producto2\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\PC\OneDrive\Escritorio\Producto2\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\PC\OneDrive\Escritorio\Producto2\bin\Debug\nunit.engine.dll
+C:\Users\PC\OneDrive\Escritorio\Producto2\bin\Debug\nunit.engine.api.dll
+C:\Users\PC\OneDrive\Escritorio\Producto2\bin\Debug\nunit.engine.core.dll
+C:\Users\PC\OneDrive\Escritorio\Producto2\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\PC\OneDrive\Escritorio\Producto2\bin\Debug\Hotel_Sol.exe.config
+C:\Users\PC\OneDrive\Escritorio\Producto2\bin\Debug\Hotel_Sol.exe
+C:\Users\PC\OneDrive\Escritorio\Producto2\bin\Debug\Hotel_Sol.pdb
+C:\Users\PC\OneDrive\Escritorio\Producto2\bin\Debug\EntityFramework.dll
+C:\Users\PC\OneDrive\Escritorio\Producto2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\OneDrive\Escritorio\Producto2\bin\Debug\nunit.framework.dll
+C:\Users\PC\OneDrive\Escritorio\Producto2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\OneDrive\Escritorio\Producto2\bin\Debug\EntityFramework.xml
+C:\Users\PC\OneDrive\Escritorio\Producto2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\OneDrive\Escritorio\Producto2\bin\Debug\nunit.framework.xml
+C:\Users\PC\OneDrive\Escritorio\Producto2\obj\Debug\Producto_2.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Escritorio\Producto2\obj\Debug\Producto_2.Properties.Resources.resources
+C:\Users\PC\OneDrive\Escritorio\Producto2\obj\Debug\Producto_2.Vista.frmExportarAOdoo.resources
+C:\Users\PC\OneDrive\Escritorio\Producto2\obj\Debug\Producto_2.Vista.Form7Reservas.resources
+C:\Users\PC\OneDrive\Escritorio\Producto2\obj\Debug\Producto_2.Vista.FormServicios11.resources
+C:\Users\PC\OneDrive\Escritorio\Producto2\obj\Debug\Producto_2.Vista.frmAddServicio.resources
+C:\Users\PC\OneDrive\Escritorio\Producto2\obj\Debug\Producto_2.Vista.frmAutenticacion.resources
+C:\Users\PC\OneDrive\Escritorio\Producto2\obj\Debug\Producto_2.Vista.frmCliente.resources
+C:\Users\PC\OneDrive\Escritorio\Producto2\obj\Debug\Producto_2.Vista.FrmHabitaciones.resources
+C:\Users\PC\OneDrive\Escritorio\Producto2\obj\Debug\Producto_2.Vista.InterfazFacturas.resources
+C:\Users\PC\OneDrive\Escritorio\Producto2\obj\Debug\Producto_2.Vista.InterfazReserva.resources
+C:\Users\PC\OneDrive\Escritorio\Producto2\obj\Debug\Producto_2.Vista.mdiHotelSol.resources
+C:\Users\PC\OneDrive\Escritorio\Producto2\obj\Debug\Producto_2.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Escritorio\Producto2\obj\Debug\Producto_2.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\Producto2\obj\Debug\Producto_2.csproj.CopyComplete
+C:\Users\PC\OneDrive\Escritorio\Producto2\obj\Debug\Hotel_Sol.exe
+C:\Users\PC\OneDrive\Escritorio\Producto2\obj\Debug\Hotel_Sol.pdb
