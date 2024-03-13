@@ -1,0 +1,109 @@
+<odoo>
+    <!-- Acceso para el modelo Habitacion -->
+    <record id="model_acces_habitacion" model="ir.model.access">
+        <field name="name">model.access.Habitacion</field>
+        <field name="model_id" ref="hotelsol.model_habitacion"/>
+        <field name="group_id" ref="base.group_system"/>
+        <field name="perm_read" eval="1"/>
+        <field name="perm_write" eval="1"/>
+        <field name="perm_create" eval="1"/>
+        <field name="perm_unlink" eval="1"/>    
+    </record>
+
+    <!-- Acceso para el modelo RegimenPension -->
+    <record id="model_acces_regimenPension" model="ir.model.access">
+        <field name="name">model.access.RegimenPension</field>
+        <field name="model_id" ref= "hotelsol.model_regimen"/>
+        <field name="group_id" ref="base.group_system"/>
+        <field name ="perm_read" eval= "1"/>
+        <field name ="perm_write" eval= "1"/>
+        <field name ="perm_create" eval= "1"/>
+        <field name ="perm_unlink" eval= "1"/>
+    </record>
+
+    <!-- Acceso para el modelo Temporada -->
+    <record id="model_acces_temporada" model="ir.model.access">
+        <field name="name">model.access.Temporada</field>
+        <field name="model_id" ref= "hotelsol.model_temporada"/>
+        <field name="group_id" ref="base.group_system"/>
+        <field name ="perm_read" eval= "1"/>
+        <field name ="perm_write" eval= "1"/>
+        <field name ="perm_create" eval= "1"/>
+        <field name ="perm_unlink" eval= "1"/>
+    </record>
+    <record id="model_acces_factura" model="ir.model.access">
+        <field name="name">model.access.Factura</field>
+        <field name="model_id" ref= "hotelsol.model_factura"/>
+        <field name="group_id" ref="base.group_system"/>
+        <field name ="perm_read" eval= "1"/>
+        <field name ="perm_write" eval= "1"/>
+        <field name ="perm_create" eval= "1"/>
+        <field name ="perm_unlink" eval= "1"/>
+    </record>
+
+    <!-- Acceso para el modelo Cliente -->
+    <record id="model_access_cliente" model="ir.model.access">
+        <field name="name">model.access.Cliente</field>
+        <field name="model_id" ref="hotelsol.model_cliente"/>
+        <field name="group_id" ref="base.group_system"/>
+        <field name="perm_read" eval="1"/>
+        <field name="perm_write" eval="1"/>
+        <field name="perm_create" eval="1"/>
+        <field name="perm_unlink" eval="1"/>
+    </record>
+
+    <!-- Acceso para el modelo HistoricoReservas -->
+    <record id="model_access_historico_reservas" model="ir.model.access">
+        <field name="name">model.access.HistoricoReservas</field>
+        <field name="model_id" ref="hotelsol.model_historico_reservas"/>
+        <field name="group_id" ref="base.group_system"/>
+        <field name="perm_read" eval="1"/>
+        <field name="perm_write" eval="1"/>
+        <field name="perm_create" eval="1"/>
+        <field name="perm_unlink" eval="1"/>
+    </record>
+
+    <!-- Acceso para el modelo HistoricoServicios -->
+    <record id="model_access_historico_servicios" model="ir.model.access">
+        <field name="name">model.access.HistoricoServicios</field>
+        <field name="model_id" ref="hotelsol.model_historico_servicios"/>
+        <field name="group_id" ref="base.group_system"/>
+        <field name="perm_read" eval="1"/>
+        <field name="perm_write" eval="1"/>
+        <field name="perm_create" eval="1"/>
+        <field name="perm_unlink" eval="1"/>
+    </record>
+
+    <!-- Acceso para el modelo Reserva -->
+    <record id="model_access_reserva" model="ir.model.access">
+        <field name="name">model.access.Reserva</field>
+        <field name="model_id" ref="hotelsol.model_reserva"/>
+        <field name="group_id" ref="base.group_system"/>
+        <field name="perm_read" eval="1"/>
+        <field name="perm_write" eval="1"/>
+        <field name="perm_create" eval="1"/>
+        <field name="perm_unlink" eval="1"/>
+    </record>
+
+    <!-- Acceso para el modelo Servicio -->
+    <record id="model_access_servicio" model="ir.model.access">
+        <field name="name">model.access.Servicio</field>
+        <field name="model_id" ref="hotelsol.model_servicio"/>
+        <field name="group_id" ref="base.group_system"/>
+        <field name="perm_read" eval="1"/>
+        <field name="perm_write" eval="1"/>
+        <field name="perm_create" eval="1"/>
+        <field name="perm_unlink" eval="1"/>
+    </record>
+
+    <!-- Acceso para el modelo TipoHabitacion -->
+    <record id="model_access_tipo_habitacion" model="ir.model.access">
+        <field name="name">model.access.TipoHabitacion</field>
+        <field name="model_id" ref="hotelsol.model_tipo_habitacion"/>
+        <field name="group_id" ref="base.group_system"/>
+        <field name="perm_read" eval="1"/>
+        <field name="perm_write" eval="1"/>
+        <field name="perm_create" eval="1"/>
+        <field name="perm_unlink" eval="1"/>
+    </record>
+</odoo>

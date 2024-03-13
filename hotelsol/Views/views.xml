@@ -1,0 +1,215 @@
+<odoo>
+    <!-- Vista para la tabla Habitacion -->
+    <record id='view_tree_habitacion' model="ir.ui.view">
+        <field name='name'>view.tree.Habitacion</field>
+        <field name='model'>habitacion</field>
+        <field name='arch' type='xml'>
+            <tree>
+                <field name="numeroHabitacion"/>
+                <field name="descripcion"/>
+                <field name="tipoID"/>
+                <field name="minNoches"/>
+                <field name="maxPersonas"/>
+                <field name="precioAlta"/>
+                <field name="PrecioMedia"/>
+                <field name="precioBaja"/>
+                <field name="fueraServicio"/>
+            </tree>
+        </field>
+    </record>
+    <record id='action_view_habitacion' model='ir.actions.act_window'>
+        <field name='name'>Habitacion</field>
+        <field name='res_model'>habitacion</field>
+        <field name='view_mode'>tree,form</field>
+    </record>
+    
+    <!-- Vista para la tabla Temporada -->
+    <record id = 'view_tree_temporada' model='ir.ui.view'>
+        <field name='name'>view.tree.Temporada</field>
+        <field name='model'>temporada</field>
+        <field name='arch' type='xml'>
+            <tree>
+                <field name = "temporadaID"/>
+                <field name = "descripcion"/>
+            </tree>
+        </field>
+    </record>
+    <record id='action_view_temporada' model='ir.actions.act_window'>
+        <field name='name'>Temporada</field>
+        <field name='res_model'>temporada</field>
+        <field name='view_mode'>tree,form</field>
+    </record>
+    
+    <!-- Vista para la tabla RegimenPension -->
+    <record id = 'view_tree_regimen' model='ir.ui.view'>
+        <field name='name'>view.tree.RegimenPension</field>
+        <field name='model'>regimen</field>
+        <field name='arch' type='xml'>
+            <tree>
+                <field name = "pensionID"/>
+                <field name = "descripcion"/>
+                <field name = "precio"/>  
+            </tree>
+        </field>
+    </record>
+    <record id='action_view_regimen' model='ir.actions.act_window'>
+        <field name='name'>RegimenPension</field>
+        <field name='res_model'>regimen</field>
+        <field name='view_mode'>tree,form</field>
+    </record>
+
+    <!-- Vista para la tabla Factura -->
+    <record id ="view_tree_factura" model='ir.ui.view'>
+        <field name="name">view.tree.Factura</field>
+        <field name="model">factura</field>
+        <field name='arch' type='xml'>
+            <tree>
+                <field name="numeroFactura"/>
+                <field name="fechaFactura"/>
+                <field name="precioTotal"/>
+                <field name="reservaID"/>
+                <field name="idCliente"/>
+            </tree>
+        </field>
+    </record>
+    <record id='action_view_factura' model='ir.actions.act_window'>
+        <field name='name'>Factura</field>
+        <field name='res_model'>factura</field>
+        <field name='view_mode'>tree,form</field>
+    </record>
+
+    <!-- Vista para la tabla HistoricoReservas -->
+    <record id='view_tree_historico_reservas' model="ir.ui.view">
+        <field name='name'>view.tree.HistoricoReservas</field>
+        <field name='model'>historico.reservas</field>
+        <field name='arch' type='xml'>
+            <tree>
+                <field name="reservaID"/>
+                <field name="habitacion"/>
+                <field name="nombre"/>
+                <field name="entrada"/>
+                <field name="salida"/>
+                <field name="estado"/>
+                <field name="idIncidencia"/>
+            </tree>
+        </field>
+    </record>
+    <record id='action_view_historico_reservas' model='ir.actions.act_window'>
+        <field name='name'>HistoricoReservas</field>
+        <field name='res_model'>historico.reservas</field>
+        <field name='view_mode'>tree,form</field>
+    </record>
+
+    <!-- Vista para la tabla Cliente -->
+    <record id='view_tree_cliente' model="ir.ui.view">
+        <field name='name'>view.tree.Cliente</field>
+        <field name='model'>cliente</field>
+        <field name='arch' type='xml'>
+            <tree>
+                <field name="NIF"/>
+                <field name="nombre"/>
+                <field name="apellidos"/>
+                <field name="telefono"/>
+                <field name="email"/>
+                <field name="VIP"/>
+                <field name="direccion"/>
+                <field name="ciudad"/>
+                <field name="cp"/>
+                <field name="pais"/>
+                <field name="fechaN"/>
+                <field name="nombreCuenta"/>
+                <field name="numeroCuenta"/>
+                <field name="fechaAlta"/>
+            </tree>
+        </field>
+    </record>
+    <record id='action_view_cliente' model='ir.actions.act_window'>
+        <field name='name'>Cliente</field>
+        <field name='res_model'>cliente</field>
+        <field name='view_mode'>tree,form</field>
+    </record>
+
+    <!-- Vista para la tabla HistoricoServicios -->
+    <record id='view_tree_historico_servicios' model="ir.ui.view">
+        <field name='name'>view.tree.HistoricoServicios</field>
+        <field name='model'>historico.servicios</field>
+        <field name='arch' type='xml'>
+            <tree>
+                <field name="idServicio"/>
+                <field name="reservaID"/>
+                <field name="historicoID"/>
+            </tree>
+        </field>
+    </record>
+    <record id='action_view_historico_servicios' model='ir.actions.act_window'>
+        <field name='name'>HistoricoServicios</field>
+        <field name='res_model'>historico.servicios</field>
+        <field name='view_mode'>tree,form</field>
+    </record>
+
+    <!-- Vista para la tabla Reserva -->
+    <record id='view_tree_reserva' model="ir.ui.view">
+        <field name='name'>view.tree.Reserva</field>
+        <field name='model'>reserva</field>
+        <field name='arch' type='xml'>
+            <tree>
+                <field name="reservaID"/>
+                <field name="firmado"/>
+                <field name="fechaEntrada"/>
+                <field name="fechaSalida"/>
+                <field name="NIF"/>
+                <field name="numeroHabitacion"/>
+                <field name="temporadaID"/>
+                <field name="pensionID"/>
+            </tree>
+        </field>
+    </record>
+    <record id='action_view_reserva' model='ir.actions.act_window'>
+        <field name='name'>Reserva</field>
+        <field name='res_model'>reserva</field>
+        <field name='view_mode'>tree,form</field>
+    </record>
+
+    <!-- Vista para la tabla Servicio -->
+    <record id='view_tree_servicio' model="ir.ui.view">
+        <field name='name'>view.tree.Servicio</field>
+        <field name='model'>servicio</field>
+        <field name='arch' type='xml'>
+            <tree>
+                <field name="idServicio"/>
+                <field name="precioServicio"/>
+                <field name="descripcion"/>
+                <field name="tipoServicioID"/>
+                <field name="precioAlta"/>
+                <field name="precioBaja"/>
+                <field name="precioMedia"/>
+                <field name="permisoAlta"/>
+                <field name="permisoMedia"/>
+                <field name="permisoBaja"/>
+                <field name="descVIP"/>
+            </tree>
+        </field>
+    </record>
+    <record id='action_view_servicio' model='ir.actions.act_window'>
+        <field name='name'>Servicio</field>
+        <field name='res_model'>servicio</field>
+        <field name='view_mode'>tree,form</field>
+    </record>
+
+    <!-- Vista para la tabla TipoHabitacion -->
+    <record id='view_tree_tipo_habitacion' model="ir.ui.view">
+        <field name='name'>view.tree.TipoHabitacion</field>
+        <field name='model'>tipo.habitacion</field>
+        <field name='arch' type='xml'>
+            <tree>
+                <field name="tipoID"/>
+                <field name="descripcion"/>
+            </tree>
+        </field>
+    </record>
+    <record id='action_view_tipo_habitacion' model='ir.actions.act_window'>
+        <field name='name'>TipoHabitacion</field>
+        <field name='res_model'>tipo.habitacion</field>
+        <field name='view_mode'>tree,form</field>
+    </record>
+</odoo>

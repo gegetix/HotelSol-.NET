@@ -1,0 +1,26 @@
+<odoo>
+    <!-- Menú principal: HotelSOL -->
+    <menuitem id='menu_hotelsol' name='HotelSOL' parent=''/>
+    <menuitem id='menu_otras_opciones' name='Otras Opciones' parent='menu_hotelsol'/>
+
+    
+    <!-- Menú Habitación -->
+    <menuitem id='menu_habitacion' parent='menu_hotelsol' action='hotelsol.action_view_habitacion'/>
+    <menuitem id='menu_tipo_habitacion' parent='menu_otras_opciones' action='hotelsol.action_view_tipo_habitacion'/>
+    
+    <!-- Menú Reserva -->
+    <menuitem id='menu_reserva' parent='menu_hotelsol' action='hotelsol.action_view_reserva'/>
+    <menuitem id='menu_temporada' parent='menu_otras_opciones' action='hotelsol.action_view_temporada'/>
+    <menuitem id='menu_regimen' parent='menu_otras_opciones' action='hotelsol.action_view_regimen'/>
+    <menuitem id='menu_historico_reservas' parent='menu_otras_opciones' action='hotelsol.action_view_historico_reservas'/>
+
+    <!-- Menú Factura -->
+    <menuitem id='menu_factura' parent='menu_hotelsol' action='hotelsol.action_view_factura'/>
+
+    <!-- Menú Cliente -->
+    <menuitem id='menu_cliente' parent='menu_hotelsol' action='hotelsol.action_view_cliente'/>
+
+    <!-- Menú Servicio -->
+    <menuitem id='menu_servicio' parent='menu_hotelsol' action='hotelsol.action_view_servicio'/>
+    <menuitem id='menu_historico_servicios' parent='menu_otras_opciones' action='hotelsol.action_view_historico_servicios'/>
+</odoo>
