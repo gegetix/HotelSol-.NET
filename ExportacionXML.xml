@@ -1,0 +1,37 @@
+<clientes>
+  <cliente>
+    <NIF>1111111</NIF>
+    <nombre>hhjghg</nombre>
+    <apellidos>jhg</apellidos>
+    <telefono>ghjg</telefono>
+    <email>jkgjklg</email>
+  </cliente>
+  <cliente>
+    <NIF>45430251F</NIF>
+    <nombre>Paco</nombre>
+    <apellidos>Perez</apellidos>
+    <telefono>699555444</telefono>
+    <email>paco@perez.com</email>
+  </cliente>
+  <cliente>
+    <NIF>5555555</NIF>
+    <nombre>Chus</nombre>
+    <apellidos>hhkjh</apellidos>
+    <telefono>hkjhkj</telefono>
+    <email>jkhkjhjk</email>
+  </cliente>
+  <cliente>
+    <NIF>79879</NIF>
+    <nombre>tuyuyt</nombre>
+    <apellidos>tuytyutuy</apellidos>
+    <telefono>99999</telefono>
+    <email>vbcbvcbvc</email>
+  </cliente>
+  <cliente>
+    <NIF>88888</NIF>
+    <nombre>UOC</nombre>
+    <apellidos>Jesuitas</apellidos>
+    <telefono>uoc</telefono>
+    <email>uoc@uoc.com</email>
+  </cliente>
+</clientes>
